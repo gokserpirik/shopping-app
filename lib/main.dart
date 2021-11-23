@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text("Welcome back dear!\n"),
+            Text("Welcome back!\n"),
             Container(
               width: 100,
               height: 40,
