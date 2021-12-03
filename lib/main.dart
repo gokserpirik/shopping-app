@@ -4,9 +4,6 @@ import 'package:my_app/notf.dart';
 import 'package:my_app/product.dart';
 import 'package:my_app/search.dart';
 
-//Controlling Link:
-// https://dribbble.com/shots/15461206/attachments/7233123?mode=media
-
 void main() {
   runApp(const MyApp());
 }
