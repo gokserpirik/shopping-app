@@ -4,8 +4,6 @@ A shopping app UI with few pages and less details. Because there is no actual wo
 
 Used Flutter/Dart
 
-Used Getir's color palette. Getir is a big company in Turkey which also delivers food etc.
-
 ### Disclaimer
 This app UI does NOT have a business side. Just maden to create something and improve/train my coding skills. 
 
